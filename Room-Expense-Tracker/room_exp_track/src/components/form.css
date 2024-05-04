@@ -1,0 +1,37 @@
+.new-form{
+    text-align: start;
+    margin: 2% 30%;
+}
+
+.form-header{
+    background-color: rgb(239, 236, 151);
+    margin: 0;
+    margin-bottom: 5px;
+}
+.form-header:first-child(p){
+    color: red;
+}
+.form-group{
+    padding-bottom: 5px;
+    border: 1px rgb(77, 77, 231) solid;
+    margin-bottom: 5px;
+    border-radius: 3px;
+}
+.input{
+    border: none;
+    border-bottom: 1px solid black;
+}
+Button{
+    margin: 0 20%;
+    background-color: rgb(239, 236, 151);
+    border: none;
+    margin-right: 20px;
+}
+.rules{
+    color: red;
+}
+
+.required-field::after{
+    content: "*";
+    color: red;
+}

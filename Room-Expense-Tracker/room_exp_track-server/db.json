@@ -1,0 +1,32 @@
+{
+  "details": [
+    {
+      "id": "1",
+      "date": "24-04-2022",
+      "product": "Bike repair",
+      "price": "3000",
+      "payee": "Jagadish"
+    },
+    {
+      "id": "2",
+      "date": "26-05-2023",
+      "product": "Rice bag",
+      "price": "1500",
+      "payee": "Feroz"
+    },
+    {
+      "id": "3",
+      "date": "15-03-2023",
+      "product": "Room rent",
+      "price": "6500",
+      "payee": "Dinesh"
+    },
+    {
+      "id": 2257,
+      "date": "2024-05-23",
+      "product": "Gas",
+      "price": "2000",
+      "payee": "Ramesh"
+    }
+  ]
+}

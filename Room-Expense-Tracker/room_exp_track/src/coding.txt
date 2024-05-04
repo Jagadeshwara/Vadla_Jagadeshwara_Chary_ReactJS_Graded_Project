@@ -1,0 +1,4 @@
+to start the server of this project give the below command
+json-server --watch db.json -p 3030
+
+to start the project give the command as npm start

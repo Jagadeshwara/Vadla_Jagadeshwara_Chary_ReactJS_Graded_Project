@@ -1,0 +1,44 @@
+#header{
+    text-align: center;
+    background-color: rgb(69, 81, 85);
+    color: rgb(159, 159, 70);
+}
+body{
+    margin: 0px;
+}
+#root{
+    margin: 0;
+}
+#thead{
+row-gap: 20px;
+}
+#theader{
+background-color:black;
+color:white;
+width:120px;
+font-Size:15px
+}
+#table{
+    display: flex;
+
+}
+button{
+    
+    padding: 7px 14px;
+    
+}
+#button{
+    justify-content: right;
+    padding-left: 30%;
+}
+.section:nth-of-type(1){
+    background-color: red;
+}
+
+a{
+    text-decoration: none;
+    background-color: rgb(94, 203, 58);
+    color: black;
+    border-radius: 3px;
+    padding: 7px 14px;
+}
